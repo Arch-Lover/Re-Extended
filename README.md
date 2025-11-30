@@ -16,7 +16,7 @@
 Run `make all` and  `make install`. Enable the extension via the Gnome Tweak Tool
 
 ## One-click install
-It's on [Gnome Shell Extensions website](https://extensions.gnome.org/extension/1201/extend-panel-menu/)
+It's soon going to be on Gnome Shell Extensions website, for time being use manual install.
 
 
 ## Known Issues
